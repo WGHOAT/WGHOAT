@@ -18,7 +18,7 @@
 ### 🚀 Current Projects
 
 - **🪣 Bucket** – Idea tracker backend with FastAPI
-- ** 🚕  Female Secure Taxi** - A Secure Way to onboard a taxi and Real-time threat Detection on entire Trip (The Name Sucks I Know) - Collab with @rohith-ze
+- **🚕  Female Secure Taxi** - A Secure Way to onboard a taxi and Real-time threat Detection on entire Trip (The Name Sucks I Know) - Collab with @rohith-ze
 ---
 
 ### 💻 Tech Stack
