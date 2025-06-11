@@ -34,6 +34,6 @@ Misc: Jupyter, VS Code, Git (aka my undo button)
 ## To connect
 📧 You can usually find me in the terminal. Otherwise, email: **ajayraj180801@gmail.com**
 
-📱 Introverted ? Message me , Extroverted ? Although i am a Introverted but its fine [📞 Call Me](tel:+919123501927)
+📱 Introverted ? Message me , Extroverted ? Although i am a Introverted but its fine 📞 Call Me (tel:+919123501927)
 
 
