@@ -7,7 +7,6 @@
 ### 🧠 About Me
 
 - 🔧 I build with Python, Flask, Django, FastAPI, and occasionally duct tape.
-- 🤖 Currently diving into Machine Learning projects — starting with **ASL Detection**.
 - 🧰 Backend dev at heart, but I won't panic when front-end hits me.
 - 🧑‍💻 I prefer code that works *and* makes sense (clean > clever).
 - 🛰 I self-host things... because why not?
