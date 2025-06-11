@@ -29,3 +29,9 @@ ML Tools: pandas, scikit-learn, TensorFlow (trying not to cry), OpenCV
 DBs: SQLite, PostgreSQL, MongoDB (getting there)
 DevOps: Nginx, systemd, Tailscale, TrueNAS, Raspberry Pi, Proxmox
 Misc: Jupyter, VS Code, Git (aka my undo button)
+```
+
+## To connect
+📧 You can usually find me in the terminal. Otherwise, email: **ajayraj180801@gmail.com**
+📱 Introverted ? Message me , Extroverted ? Although i am a Introverted its fine Give me a call **+91 9123501927** 
+
