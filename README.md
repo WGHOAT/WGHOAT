@@ -17,12 +17,8 @@
 
 ### 🚀 Current Projects
 
-- **🧠 Heart Disease & Lung Cancer Prediction** – Healthcare meets ML
 - **🪣 Bucket** – Idea tracker backend with FastAPI
-- **🔍 ActivityWatch Server Hosting** – Because productivity ≠ open tabs
-- **📡 Tailscale + Pi-hole + Home Assistant** – Self-hosting ftw
-- **🤖 ASL Detection** – ML project using image classification
-
+- ** 🚕  Female Secure Taxi** - A Secure Way to onboard a taxi and Real-time threat Detection on entire Trip (The Name Sucks I Know) - Collab with @rohith-ze
 ---
 
 ### 💻 Tech Stack
